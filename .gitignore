@@ -1,0 +1,20 @@
+## environment files
+*.env
+*.txt
+!requirements.txt
+*.bat
+*.dat
+*.pyc
+assets/google_client_service_key.json
+
+## folders
+uploads
+staticfiles
+*__pycache__
+venv
+
+## files
+restart_database.py
+db.sqlite3
+
+*/test.py
